@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Virtual Environemnt
+.venv/
+
+# Byte-compiled
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
