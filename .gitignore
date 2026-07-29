@@ -13,3 +13,6 @@ __pycache__/
 
 # Jupyter Notebooks
 .ipynb_checkpoints
+
+# Database Files
+*.db
