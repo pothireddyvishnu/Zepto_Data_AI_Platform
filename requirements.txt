@@ -5,3 +5,4 @@ beautifulsoup4
 seaborn
 matplotlib
 scikit-learn
+imbalanced-learn
