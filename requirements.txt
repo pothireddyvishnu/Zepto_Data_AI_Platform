@@ -6,3 +6,9 @@ seaborn
 matplotlib
 scikit-learn
 imbalanced-learn
+chromadb
+pydantic
+sentence_transformers
+langgraph
+groq
+fastapi

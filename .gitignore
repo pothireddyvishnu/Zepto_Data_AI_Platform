@@ -16,3 +16,7 @@ __pycache__/
 
 # Database Files
 *.db
+support_assistant/data/chroma/
+
+# Env Files
+.env
