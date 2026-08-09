@@ -4,3 +4,5 @@ sentence_transformers
 langgraph
 groq
 fastapi
+python-dotenv
+uvicorn
